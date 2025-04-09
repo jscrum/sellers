@@ -1,0 +1,36 @@
+Enhancing Bike Safety and Navigation through A Mobile App
+Sellers Crum 							Brian Toone
+Samford University						Samford University
+800 Lakeshore Drive						800 Lakeshore Drive
+Birmingham AL, 35229					Birmingham AL, 35229
++1 334 350 0388						+1 205 726 2960
+Abstract
+My proposal outlines the development of a cross-platform mobile app for MyBikeTraffic. This app will be designed to improve cyclist safety and navigation with real-time traffic data about radar tracking and video feedback. This will help owners of the MybikeTraffic app to improve their situational awareness using data driven insights to optimize routes and increase safety.
+1.	Introduction
+When cycling in urban environments there can be many significant safety hazards that are often caused by inadequate traffic data integration. This project will propose the development of a mobile app that utilizes live data to better cyclist safety and route planning.
+2.	Background
+This application will connect to MyBikeTraffic’s backend API to fetch and display data such as vehicle locations, speeds and proximity warnings. This will hope to achieve better biker safety and reduce harm.
+3.	Methodology
+3.1	Development Tools and Framworks
+This app will be created using React Native which will allow for cross platform functionality across IOS and Android phones. In the initial development stage the goal will be to focus on establishing an OAuth communication with the backend API to secure user data and also traffic information.
+3.2	Data Visualization and User Interface
+The application will implement dynamic data tools to display 
+	Radar data for vehicle location and movements.
+	Lateral and rear proximity alerts using depth maps and video feeds.
+	Interactive maps for route optimization based on traffic conditions.
+3.3	Testing and validation 
+The app will then undergo testing phases that include unit testing for individual components and testing to ensure correct API interaction and data accuracy. 
+
+4.	Desired Outcome
+Reliable real time data input and display
+User interface that can be used for both novice and experienced cyclists.
+Positive user feedback and demonstrable improvement in user route selection and safety
+
+5.	Conclusion
+I hope to achieve this project and create a completed and nice mobile app that will improve biker safety for all cyclists. This app will hopefully support safety but also promote cycling as a viable and enjoyable mode of transportation. 
+
+6.	Referenes
+-“Introduction · REACT NATIVE.” React Native RSS, 23 Oct. 2024, reactnative.dev/docs/getting-started. 
+-Bagale, Jiva N., et al. “Towards a real-time data sharing system for mobile devices.” 2014 Eighth International Conference on Next Generation Mobile Apps, Services and Technologies, Sept. 2014, pp. 147–152, https://doi.org/10.1109/ngmast.2014.19. 
+-Seitz, L., et al. Authentication and Authorization for Constrained Environments Using the OAuth 2.0 Framework (ACE-OAUTH), Aug. 2022, https://doi.org/10.17487/rfc9200. 
+
